@@ -14,3 +14,4 @@ Añadir al proyecto un tercer commit con los ficheros README.md (con una breve d
 Entregar en el texto de la entrega a MiriadaX el URL al proyecto subido a GITHUB como un enlace clicable.
 
 El evaluador debe comprobar que el URL corresponde al proyecto random (con el nuevo commit incluido) publicado en la cuenta en GITHUB de la persona que ha hecho la entrega . El autor de la entrega debe ser tambíen el autor del ultimo commit.
+=========================
