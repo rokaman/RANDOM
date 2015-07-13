@@ -1,6 +1,7 @@
 
 
 Ejercicio P2P Obligatorio
+=========================
 
 Explicación de la tarea
 
